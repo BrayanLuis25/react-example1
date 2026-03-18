@@ -35,7 +35,11 @@ root.render(
     <App />
   </React.StrictMode>
 );
+<<<<<<< HEAD
 npm
+=======
+
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals*/ 

@@ -1,10 +1,17 @@
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
 {
   "name": "vilcabrayan",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
+=======
+  "homepage": "https://github.com/BrayanLuis25/react-example1",
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -18,7 +25,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject"
+=======
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
   },
   "eslintConfig": {
     "extends": [
@@ -37,5 +50,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
   }
 }

@@ -40,17 +40,29 @@ margin-right: auto;
 }
 /****************Fecha-hora---------*/
 .div-fecha{
+<<<<<<< HEAD
   width: 47%;
+=======
+  width: 45%;
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
   display: inline-block;
   height: 50px;
   background-color: gray;
   color: white;
   margin-left: 10px;
+<<<<<<< HEAD
 
 text-align: left;
 padding-top: 20px;
 padding-left: 10px;
 margin-top:80px;
+=======
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-top:80px;
+
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
 }
 .div-hora{
   width: 47%;
@@ -62,7 +74,12 @@ margin-top:80px;
   padding-top: 20px;
   padding-left: 10px;
   margin-top: 80px;
+<<<<<<< HEAD
   margin-left: 60px;
+=======
+  margin-left: 50px;
+  border: 20px;
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
 }
 
 /********Formulario*********/
@@ -116,8 +133,11 @@ margin-top:80px;
      filter:brightness(100%);
     transform: scale(1.5);
     transition:all ease 1s;
+<<<<<<< HEAD
 
     
+=======
+>>>>>>> 08e1780b7d52298b05a94a313a530ea3e1d06083
        }
     
 
