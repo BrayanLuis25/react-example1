@@ -29,9 +29,9 @@ setTimeout(() => this.setState({
 
  <div >
    <div className="prs" >
-    <a className="rs"href="./"> <img src="imagenes/facebook.jpg" alt="facebook"></img></a>
-    <a className="rs"href="./"> <img src="imagenes/instagram.jpg" alt="instagramk"></img></a>
-    <a className="rs"href="./"> <img src="imagenes/twitter.jpg" alt="twitter"></img></a>
+    <a className="rs"href="./"> <img src="/imagenes/facebook.jpg" alt="facebook"></img></a>
+    <a className="rs"href="./"> <img src="/imagenes/instagram.jpg" alt="instagram"></img></a>
+    <a className="rs"href="./"> <img src="/imagenes/twitter.jpg" alt="twitter"></img></a>
     
     </div>
     <h1 className="tit"> Veterinaria Huellitas</h1>
