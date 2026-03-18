@@ -3,8 +3,7 @@
   "name": "vilcabrayan",
   "version": "0.1.0",
   "private": true,
-
-  "homepage": "https://github.com/BrayanLuis25/react-example1",
+"homepage": "https:BrayanLuis25.github.io/react-example1",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
